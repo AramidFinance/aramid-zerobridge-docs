@@ -6,7 +6,7 @@ description: >-
 
 # Zero Bridge DApp
 
-{% embed url="https://beta.zb01.zerobridge.xyz/bridge" %}
-TestNet URL for Zero Bridge DApp
+{% embed url="https://test.zerobridge.xyz" %}
+CI/CD TestNet URL for Zero Bridge DApp
 {% endembed %}
 
