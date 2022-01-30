@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Zero bridge](README.md)
+* [Zero Bridge](README.md)
 
 ## Getting Started
 
@@ -11,7 +11,7 @@
 ## Concepts & architecture
 
 * [Bridge Contract](concepts-and-architecture/bridge-contract.md)
-* [validator Network](concepts-and-architecture/validator-network.md)
+* [Validator Network](concepts-and-architecture/validator-network.md)
 * [Governance DAO](concepts-and-architecture/governance-dao.md)
 * [Roadmap](concepts-and-architecture/roadmap.md)
 
