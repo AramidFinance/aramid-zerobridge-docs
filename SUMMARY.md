@@ -10,8 +10,9 @@
 
 ## Concepts & architecture
 
-* [Bridge Contract](concepts-and-architecture/bridge-contract.md)
-* [Validator Network](concepts-and-architecture/validator-network.md)
+* [Concepts](concepts-and-architecture/bridge-contract.md)
+* [Architecture](concepts-and-architecture/architecture.md)
+* [Validator Nodes](concepts-and-architecture/validator-network.md)
 * [Governance DAO](concepts-and-architecture/governance-dao.md)
 * [Risk Analysis](concepts-and-architecture/risk-analysis.md)
 * [Roadmap](concepts-and-architecture/roadmap.md)
