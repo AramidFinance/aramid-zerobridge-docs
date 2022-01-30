@@ -1,7 +1,7 @@
 ---
 description: >-
-  Zero Bridge is a decentralized multi-chain Bridge to exchange Assets among
-  Ethereum, Algorand and Polygon blockchains in a Secure and Scalable way.
+  Zero Bridge is a Decentralized multi-chain bridge to exchange assets among
+  Ethereum, Algorand and Polygon Blockchains in a Secure and Scalable way.
 ---
 
 # Zero Bridge
