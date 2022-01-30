@@ -11,7 +11,7 @@ description: 'There are many approaches to swapping assets between two disparate
 
 While designing the architecture, we took into account the challenges associated with trillemma of building a bridge: **Security, De-centralization and Scalability**.&#x20;
 
-We asked ourselves many questions from very basic to more intricate ones that reflected on the these problems. The question we asked:
+We asked ourselves many questions from very basic to more intricate ones that reflected on the these challenges. The questions we asked:
 
 #### What problem the user is trying to solve when initiating a transaction between the chains?
 
@@ -25,15 +25,15 @@ We asked ourselves many questions from very basic to more intricate ones that re
 
 #### How are the infrastructure components (Relayers, Attestors, etc.) compensated?
 
-Solution to one question becomes a problem for the other. It is a vexing problem that has no clear-cut solution.
+Solution to one question became a bottleneck for the other. It is a vexing problem that defied any clear-cut solution.
 
-For our TestNet implementation, we used a group of trusted resource called validators to swap assets among Ethereum, Algorand and Polygon chains.
+For our TestNet implementation, we used a group of trusted resources called validators to swap assets among Ethereum, Algorand and Polygon chains.
 
 We used the "Lock & Mint" method of transferring tokens between the chains. Users send a native token from their wallet and it appears as a Wrapped Asset in the destination chain.  For an Ethereum to Algorand transfer scenario, the user sends a Token (ERC20) from the wallet in Ethereum. The Token is locked in the Bridge Smart contract and a mapped Algorand Standard Asset (ASA) is released from a Multi-Sig account to the user's Algorand  wallet. The user can now redeem the ERC20 by initiating a transfer action from Algorand that releases the Token from the Bridge Smart Contract to user Ethereum wallet.&#x20;
 
 ![Ethereum to Algorand Transfer](../.gitbook/assets/bridge-usecase1.png)
 
-![](../.gitbook/assets/bridge-usecase2.png)
+![Algorand to Ethereum Transfer](../.gitbook/assets/bridge-usecase2.png)
 
 
 
