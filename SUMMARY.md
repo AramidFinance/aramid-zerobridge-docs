@@ -25,7 +25,7 @@
   * [Running Apps locally](getting-involved/developer/running-apps-locally.md)
   * [Configurations](getting-involved/developer/configurations.md)
 * [Soldier Node Operator](getting-involved/node-operator/README.md)
-  * [Be a soldier in Validator Network](getting-involved/node-operator/be-a-soldier-in-validator-network.md)
+  * [How to become a soldier](getting-involved/node-operator/be-a-soldier-in-validator-network.md)
   * [Staking & Slashing](getting-involved/node-operator/staking-and-slashing.md)
   * [Payout](getting-involved/node-operator/payout.md)
 * [Join Community](getting-involved/join-community/README.md)
@@ -35,4 +35,4 @@
 ## FAQ and Support
 
 * [Frequently asked questions](faq-and-support/frequently-asked-questions.md)
-* [Help and Support](faq-and-support/help-and-support.md)
+* [Help and support](faq-and-support/help-and-support.md)
