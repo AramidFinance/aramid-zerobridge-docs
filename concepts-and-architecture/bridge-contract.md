@@ -6,6 +6,8 @@ description: 'There are many approaches to swapping assets between two disparate
 
 <mark style="color:red;">Explain bridging concepts, current bridging technology, why this technology over others, future plans on using state proofs.</mark>
 
+<mark style="color:red;">Explain concept of generic chain connector</mark>
+
 * Use Atomic swap like Hash Time Locked Contract (HTLC) method, without middle man
 * Use a trusted custodian, usually a group of trusted resource for added security and de-centralization
 * Full on-chain validation
