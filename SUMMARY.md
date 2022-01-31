@@ -4,7 +4,6 @@
 
 ## Getting Started
 
-* [FAQ](getting-started/faq.md)
 * [Zero Bridge DApp](getting-started/zero-bridge-dapp.md)
 
 ## Concepts & architecture
