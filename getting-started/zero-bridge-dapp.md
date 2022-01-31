@@ -13,8 +13,6 @@ description: What does the bridge cover and how to use it
 #### Testnet CI/CD release:
 
 {% embed url="https://test.zerobridge.xyz" %}
-CI/CD TestNet URL for Zero Bridge DApp
-{% endembed %}
 
 #### Testnet UI CI/CD release:
 
