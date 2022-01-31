@@ -9,6 +9,7 @@
 ## Concepts & architecture
 
 * [Concepts](concepts-and-architecture/bridge-contract.md)
+* [Smart Contracts](concepts-and-architecture/smart-contracts.md)
 * [Architecture](concepts-and-architecture/architecture.md)
 * [Soldier Nodes](concepts-and-architecture/validator-network.md)
 * [Governance](concepts-and-architecture/governance-dao.md)
@@ -17,14 +18,16 @@
 
 ## Getting Involved
 
+* [The team DAO](getting-involved/the-team-dao.md)
 * [Developer](getting-involved/developer/README.md)
   * [Zero Bridge Repository](getting-involved/developer/zero-bridge-repository.md)
+  * [Docker](getting-involved/developer/docker.md)
   * [Running Apps locally](getting-involved/developer/running-apps-locally.md)
   * [Configurations](getting-involved/developer/configurations.md)
-* [Join Community](getting-involved/join-community/README.md)
-  * [Twitter](getting-involved/join-community/twitter.md)
-  * [Discord](getting-involved/join-community/discord.md)
-* [Node Operator](getting-involved/node-operator/README.md)
+* [Soldier Node Operator](getting-involved/node-operator/README.md)
   * [Be a soldier in Validator Network](getting-involved/node-operator/be-a-soldier-in-validator-network.md)
   * [Staking & Slashing](getting-involved/node-operator/staking-and-slashing.md)
   * [Payout](getting-involved/node-operator/payout.md)
+* [Join Community](getting-involved/join-community/README.md)
+  * [Twitter](getting-involved/join-community/twitter.md)
+  * [Discord](getting-involved/join-community/discord.md)
