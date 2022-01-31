@@ -4,7 +4,6 @@
 
 ## Getting Started
 
-* [About](getting-started/about.md)
 * [FAQ](getting-started/faq.md)
 * [Zero Bridge DApp](getting-started/zero-bridge-dapp.md)
 
@@ -12,7 +11,7 @@
 
 * [Concepts](concepts-and-architecture/bridge-contract.md)
 * [Architecture](concepts-and-architecture/architecture.md)
-* [Validator Nodes](concepts-and-architecture/validator-network.md)
+* [Soldier Nodes](concepts-and-architecture/validator-network.md)
 * [Governance DAO](concepts-and-architecture/governance-dao.md)
 * [Risk Analysis](concepts-and-architecture/risk-analysis.md)
 * [Roadmap](concepts-and-architecture/roadmap.md)
