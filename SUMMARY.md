@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-* [Zero Bridge DApp](getting-started/zero-bridge-dapp.md)
+* [Zero Bridge Dapp](getting-started/zero-bridge-dapp.md)
 
 ## Concepts & architecture
 
