@@ -1,8 +1,7 @@
 ---
 description: >-
-  Zero Bridge is at the forefront of cross-chain communications and has an
-  aggressive schedule to implement different enhancements to exchange assets
-  among Algorand and EVM, non-EVM chains.
+  Zero Bridge Roadmap - from simple lock and mint multi-chain bridging to
+  cross-chain swapping/ cross-chain Dapp services and more
 ---
 
 # Roadmap
@@ -18,4 +17,3 @@ description: >-
 * Bridge code as a Blockchain (Sidechain, Parachain)
 * Transfer NFT
 * Execute Smart Contract meghods in another chain
-

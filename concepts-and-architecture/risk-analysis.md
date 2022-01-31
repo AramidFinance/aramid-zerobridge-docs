@@ -1,2 +1,5 @@
-# Risk Analysis
+# Security and Risks
 
+<mark style="color:red;">What are the main risks with the current architecture?</mark>
+
+<mark style="color:red;">How do we incentivize reporting/ active research of security issues?</mark>

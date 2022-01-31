@@ -11,8 +11,8 @@
 * [Concepts](concepts-and-architecture/bridge-contract.md)
 * [Architecture](concepts-and-architecture/architecture.md)
 * [Soldier Nodes](concepts-and-architecture/validator-network.md)
-* [Governance DAO](concepts-and-architecture/governance-dao.md)
-* [Risk Analysis](concepts-and-architecture/risk-analysis.md)
+* [Governance](concepts-and-architecture/governance-dao.md)
+* [Security and Risks](concepts-and-architecture/risk-analysis.md)
 * [Roadmap](concepts-and-architecture/roadmap.md)
 
 ## Getting Involved
