@@ -34,3 +34,13 @@ Ethereum to Polygon
 #### Non-EVM to non-EVM (and viceversa)
 
 Zero Bridge allows bridging of Assets in Ethereum, Algorand and Polygon environment. Users can transfer ERC20 tokens from Ethereum to Algorand, Polygon to Algorand and vice versa. The ERC20 tokens from EVM compatible chains are transferred in Algorand Standard Assets (ASA) in Algorand.
+
+### Using the WebDapp
+
+#### 1. Selection of bridging route
+
+2\. Connecting sender and reveiver wallets
+
+3\. Selecting asset to be bridged
+
+#### Nothing should go wrong - if it did we still have safety mechanisms in place. Please visit the Troubleshooting section.&#x20;
