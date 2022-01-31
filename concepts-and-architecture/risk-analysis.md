@@ -2,4 +2,4 @@
 
 <mark style="color:red;">What are the risks with the current architecture?</mark>
 
-How do we incentivize reporting/ active research of security issues?
+<mark style="color:red;">How do we incentivize reporting/ active research of security issues?</mark>
