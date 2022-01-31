@@ -20,7 +20,7 @@ description: What does the bridge cover and how to use it
 
 ### Currently supported bridging options&#x20;
 
-The briding options have been separated into non-EVM to non-EVM, EVM to non-EVM and EVM to EVM - _Please consider the term EVM as EVM compatible in the docs context_.&#x20;
+The briding options have been separated into **non-EVM to non-EVM**, **EVM to non-EVM** and **EVM to EVM** - _Please consider the term EVM as EVM compatible in the docs context_.&#x20;
 
 #### Non-EVM (focus on Algorand) to EVM (and viceversa) bridging:
 
