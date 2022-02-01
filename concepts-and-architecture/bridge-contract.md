@@ -13,9 +13,9 @@ description: >-
 
 <mark style="color:red;">Explain Disaster Recovery</mark>
 
-With the advent of Bitcoin in 2009, digital currency became a part of conducting business transactions. In 2013, Ethereum introduced computer Code, also called Smart Contracts, that opened the door for various applications using Blockchain. The smart contract code was written using Solidity/Go languages and executed in an Ethereum Virtal Machine (EVM) environment  Lately, the cost of executing these transactions has been very high due to rise in price of Ethereum currency and there have been challenges with the scalability of the network. This gave rise to many blockchains that addressed these issues such as many EVM compatible chains like Polygon, Binance and Avalanche and many non-EVM chains like Algorand, Celo, Terra and Lukso.
+With the advent of Bitcoin in 2009, digital currency became a part of conducting business transactions. In 2013, Ethereum introduced computer Code, also called Smart Contracts, that opened the door for various applications using Blockchain. The smart contract code was written using Solidity/Go languages and executed in an Ethereum Virtal Machine (EVM) environment  Lately, the cost of executing these transactions has been very high due to rise in price of Ethereum currency and there have been challenges with the scalability of the network. This gave rise to many blockchains that addressed these issues such as many EVM compatible chains like Polygon, Binance and Avalanche and many non-EVM chains like Algorand, Celo, Terra and Lukso.&#x20;
 
-Bridges allowed&#x20;
+Blockchain eco-system grew with many new type of applications such as Digital Identity, Decentralized Finance (DeFi), Yield Farming and craze with Non Fungible Tokens (NFT). Users wanted to move Assets from one chain to another to take advantage of high APR, ease of conducting transaction. Decentralized Exchanges and Bridges filled that need. Decentralized exchanges allowed to swap native Assets from one EVM chain to another EVM chain. Bridges allowed transfer of Assets from one chain to another in a EVM agnostic way.
 
 * Use Atomic swap like Hash Time Locked Contract (HTLC) method, without middle man
 * Use a trusted custodian, usually a group of trusted resource for added security and de-centralization
