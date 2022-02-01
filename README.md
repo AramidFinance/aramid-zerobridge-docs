@@ -4,7 +4,7 @@ description: Overview on Zero Bridge
 
 # Zero Bridge
 
-Zero Bridge is a decentralized multi-chain bridge focused on **Algorand**, EVM and other non-EVM blockchains. Offering bridging in a decentralised, secure, cost effective and scalable manner.
+Zero Bridge is a decentralized multi-chain bridge focussed on **Algorand**, EVM and other non-EVM blockchains. Offer bridging in a decentralized, secure, cost effective and scalable manner.
 
 #### <mark style="color:orange;">**Zero Bridge is currently deployed to Algorand, Ethereum Rinkeby, and Polygon**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">TestNets</mark><mark style="color:orange;">**.**</mark>
 
