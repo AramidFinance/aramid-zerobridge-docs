@@ -1,5 +1,8 @@
 ---
-description: 'There are many approaches to swapping assets between two disparate chains:'
+description: >-
+  Bridging helps foster cross-chain communication and break down barriers with
+  different block chains. It helps transfer assets, execute transactions among
+  EVM compatible and non-EVM chains.
 ---
 
 # Concepts
@@ -9,6 +12,10 @@ description: 'There are many approaches to swapping assets between two disparate
 <mark style="color:red;">Explain concept of generic chain connector</mark>
 
 <mark style="color:red;">Explain Disaster Recovery</mark>
+
+With the advent of Bitcoin in 2009, digital currency became a part of conducting business transactions. In 2013, Ethereum introduced computer Code, also called Smart Contracts, that opened the door for various applications using Blockchain. The smart contract code was written using Solidity/Go languages and executed in an Ethereum Virtal Machine (EVM) environment  Lately, the cost of executing these transactions has been very high due to rise in price of Ethereum currency and there have been challenges with the scalability of the network. This gave rise to many blockchains that addressed these issues such as many EVM compatible chains like Polygon, Binance and Avalanche and many non-EVM chains like Algorand, Celo, Terra and Lukso.
+
+Bridges allowed&#x20;
 
 * Use Atomic swap like Hash Time Locked Contract (HTLC) method, without middle man
 * Use a trusted custodian, usually a group of trusted resource for added security and de-centralization
