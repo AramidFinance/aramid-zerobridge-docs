@@ -20,7 +20,7 @@ If all decoded addresses are unique, and there are enough of them (> bridge defi
 
 ### Algorand Multi-sig wallet
 
-On the Algorand blockchain, the zero bridge treasury behaviour is defined by the multi-signature wallet who minted our ASA. 
+On the Algorand blockchain, the zero bridge treasury behaviour is defined by the [multi-signature wallet](https://developer.algorand.org/docs/get-details/accounts/create/?from_query=multisig#multisignature) who minted our ASA. 
 
 This wallet is the custodian for the zero-bridge token, and can only be accessed by the validator nodes in unison.
 
