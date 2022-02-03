@@ -10,6 +10,8 @@ Each solider watches a contract/ASA address, and is expecting to see a transacti
 
 When a soldier sees a transaction, it records it, signs it, and then passes the p2p-message to the other sodiers.
 
-When a soldier sees a p2p-message, it queries the blockchain to see if the transaction is valid, and it makes sure it has not yet signed the message. If these are both true, it then adds it's signature to the message and sends the new message to the network.
+When a soldier sees a p2p-message, it queries the blockchain to see if the transaction is valid, and it makes sure it has not yet signed the message. 
+
+If these conditions are met, it then adds it's signature to the message and propogates the new message to the other peers in the network.
 
 If a threshold number of soldiers have signed, the transaction will be submitted on-chain.
