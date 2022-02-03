@@ -24,4 +24,4 @@ On the Algorand blockchain, zero bridge treasury behaviour is defined by the mul
 
 This wallet is the custodian for the zero-bridge token, and can only be accessed by the validator nodes in unison.
 
-Again, the behaviour of the validator network in described in the later section.
+The behaviour of the validator network in described in the later section.
