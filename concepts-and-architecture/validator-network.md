@@ -6,7 +6,7 @@
 
 Zero bridge solider nodes are built using custom [libp2p](https://libp2p.io/) configurations.
 
-Each solider watches a contract/ASA address, and is expecting to see a transaction
+Each solider watches a contract/ASA address, and is expecting to see a transaction. For this we use [ethereum event watchers](https://web3js.readthedocs.io/en/v1.3.4/web3-eth-contract.html#contract-events) and the [algorand indexer](https://developer.algorand.org/docs/rest-apis/indexer/).
 
 When a soldier sees a transaction, it records it, signs it, and then passes the p2p-message to the other sodiers.
 
