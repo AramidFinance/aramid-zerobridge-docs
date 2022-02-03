@@ -16,11 +16,11 @@ The core of the bridge is the `releaseTokens` method. It's sole purpose is to de
 
 In `releaseTokens`, we expect to get a validator encoded array of bytes submitted to the bridge, along with corresponding transaction parameters. The array of bytes is decoded and is compared to the transaction parameters. Along with this, the decoded array of bytes is checked for uniqueness against the list of confirmed validators. 
 
-If all decoded addresses are unique, and there are enough of them (> bridge defined threshold), and they match with the proposed transaction parameters, and the transaction is new, only them do we release assets.
+If all decoded addresses are unique, and there are enough of them (> bridge defined threshold), and they match with the proposed transaction parameters, and the transaction is new, only then do we release assets.
 
 ### Algorand Multi-sig wallet
 
-On the Algorand blockchain, zero bridge treasury behaviour is defined by the multi-signature wallet who minted our ASA. 
+On the Algorand blockchain, the zero bridge treasury behaviour is defined by the multi-signature wallet who minted our ASA. 
 
 This wallet is the custodian for the zero-bridge token, and can only be accessed by the validator nodes in unison.
 
