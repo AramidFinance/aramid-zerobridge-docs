@@ -4,7 +4,7 @@
 
 ## Current implimentation
 
-Zero bridge solider nodes are build using custom [libp2p](https://libp2p.io/) configurations.
+Zero bridge solider nodes are built using custom [libp2p](https://libp2p.io/) configurations.
 
 Each solider watches a contract/ASA address, and is expecting to see a transaction
 
