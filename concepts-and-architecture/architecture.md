@@ -6,8 +6,6 @@ description: Zero Bridge
 
 <mark style="color:red;">How do we want to display the architecture in a structured and visual way to cover all scenarios.</mark>
 
-![](../.gitbook/assets/arch-eth2Algo.jpg)
+Zero Bridge architecture ensures secure and reliable asset transfer between the chains.&#x20;
 
-Algorand and Ethreum work flow
-
-![](../.gitbook/assets/arch-Algo2Eth.jpg)
+![](../.gitbook/assets/2.bridge-arch-flow.jpg)
