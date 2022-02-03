@@ -35,6 +35,5 @@ For our TestNet implementation, our scope was to bridge assets among Ethereum, A
 
 For an Ethereum to Algorand transfer scenario, the user sends a Token (ERC20) from the wallet in Ethereum. The Token is locked in the Bridge Smart contract and a mapped Algorand Standard Asset (ASA) is released from a Multi-sig account to the user's Algorand wallet. The user can redeem the ERC20 by initiating a transfer action from Algorand that releases the Token from the Bridge Smart Contract to user Ethereum wallet.
 
-![Ethereum to Algorand Transfer](../.gitbook/assets/bridge-usecase1.png)
+![Use case: Bridging Tokens among Ethereum,  Algorand and Polygon](../.gitbook/assets/3.bridge-usecase.jpg)
 
-![Algorand to Ethereum Transfer](../.gitbook/assets/bridge-usecase2.png)
