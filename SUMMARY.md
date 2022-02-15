@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-* [Background](getting-started/background.md)
+* [Introduction](getting-started/background.md)
 * [Zero Bridge Dapp](getting-started/zero-bridge-dapp.md)
 
 ## Concepts & architecture
