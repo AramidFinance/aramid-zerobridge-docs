@@ -10,7 +10,6 @@
 
 ## Concepts & architecture
 
-* [Concepts](concepts-and-architecture/bridge-contract.md)
 * [Smart Contracts](concepts-and-architecture/smart-contracts.md)
 * [Architecture](concepts-and-architecture/architecture.md)
 * [Soldier Nodes](concepts-and-architecture/validator-network.md)
