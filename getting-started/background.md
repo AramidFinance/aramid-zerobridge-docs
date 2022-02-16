@@ -12,10 +12,11 @@ In 2013, Ethereum came up with Smart Contracts, also known as computer code, tha
 
 ### Blockchain Ecosystem & Challenges
 
-There have been many different blockchains that use different smart contract languages, consensus protocols and support DApps for various business domains. These blockchains have grown unevenly and provide different benefits and challenges. For example, the cost of executing transactions in Ethereum is very high. In addition, there have been challenges with the scalability of the network. On the otherhand, Algorand, a non-EVM Layer-1 blockchain, has a very low transaction fee and higher throughput. Similarly, Polygon, a Layer-2 scaling solution, also has low transaction cost. However, these blockchains and DApps exist as silos and there is very little interaction among them.&#x20;
+There have been many different blockchains that use different smart contract languages, consensus protocols and support DApps for various business domains. These blockchains provide different benefits and challenges. For example, the cost of executing transactions in Ethereum is very high. In addition, there have been challenges with the scalability of the network. On the otherhand, Algorand, a non-EVM Layer-1 blockchain, has a very low transaction fee and higher throughput. Similarly, Polygon, a Layer-2 scaling solution, also has low transaction cost. However, these blockchains and DApps exist as silos and there is very little interaction among them.&#x20;
 
-### Birth of a Bridge
+### Birth of Bridge
 
-There is a strong need for cross-chain communication, moving assets from one chain to other to take advantage of the facilities available unique to a blockchain. Cross-chain communication will help accelerate the growth of Blockchain eco-system as a whole. Zero Bridge is at the forefront of this challenge and leads the way to make this a reality by integrating Ethereum, Algorand, Polygon and other EVM and non-EVM blockchains.
+The growth of blockchain has not been uniform. Ethereum ecosystem has grown considerably in last three or four years with many DApps across many business domains. However, for others, it has not been so stellar.&#x20;
 
-![zero bridge leading the way for cross-chain communication](../.gitbook/assets/1.bridge-block-dgm.jpg)
+Bridges foster cross-chain communication, moving assets from one chain to other, helping to use DApps from another chain. If someone holds a Token, say in Ethereum network, they can take advantage of higher APR in a deFi application in Algorand blockchain by sending assets from Ethereum to Algorand chain. From that perspective, Bridges play a pivotal role in accelerating the growth of Blockchain eco-system as a whole.&#x20;
+
