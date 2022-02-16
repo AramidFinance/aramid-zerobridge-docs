@@ -1,7 +1,5 @@
 # Soldier Nodes
 
-<mark style="color:red;">Explain soldier nodes concept. The communication, security, incentivization and any other relevant information - Governance might be explained in the governance section</mark>
-
 ## Current Implementation
 
 Zero Bridge Soldier Network is a peer-to-peer network where the nodes communicate with one another directly. It leverages the libp2p protocol for messaging and communication. This network is the Transport layer that transmits messages from one peer to another. It uses public key cryptography as the basis of peer identity. Each node have their unique Peer ID, which allows them to identify each other and communicate among themselves.
@@ -23,3 +21,11 @@ If these conditions are met, it then adds it's signature to the message and prop
 If a threshold number of soldiers have signed, the transaction will be submitted on-chain.
 
 ![](../.gitbook/assets/8.soldier-network.jpg)
+
+### Disaster Recovery
+
+Each of the soldiers in the network maintain their state in a database. In case of any unforeseen shutdown, they can come online by reading data from their storage medium.
+
+### Incentivization
+
+Soldiers in the system are incentivized to validate the transactions and keep the system safe and secure.

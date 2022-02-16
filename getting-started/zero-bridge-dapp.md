@@ -35,10 +35,10 @@ The bridging options have been separated into **non-EVM to non-EVM**, **EVM to n
 
 ### Using the WebDapp
 
-#### 1. Selection of bridging route
+1\. Select bridging route
 
-2\. Connecting sender and receiver wallets
+2\. Connect sender and receiver wallets
 
-3\. Selecting asset to be bridged
+3\. Select asset to be bridged
 
-#### Nothing should go wrong - if it did we still have safety mechanisms in place. Please visit the Troubleshooting section.
+#### Note: nothing should go wrong. We have safety mechanisms in place for exception sceanrios. Please visit the Troubleshooting section for your specific issues.

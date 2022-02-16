@@ -1,5 +1,5 @@
 # Security and Risks
 
-<mark style="color:red;">What are the risks with the current architecture?</mark>
+### Risk Assumptions
 
-<mark style="color:red;">How do we incentivize reporting/ active research of security issues?</mark>
+### Incentivization and Risk Mitigation

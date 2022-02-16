@@ -12,7 +12,7 @@ Unfortunately, solving one of the issues conflicts with others. Different bridge
 
 ## ZERO Bridge
 
-Zero bridge took a holistic approach to design the system with **Security** being front and centered. A secure system makes people to feel safe to conduct transactions. Before building the Zero Bridge, we asked ourselves many questions from very basic ones like the usability of the Bridge to more intricate ones that centered on the security, reliability of the bridge. We asked:
+Zero Bridge leads the way by taking a holistic approach to design the system with **Security** being front and centered. A secure system makes people to feel safe to conduct transactions. Before building the Zero Bridge, we asked ourselves many questions from very basic ones like the usability of the Bridge to more intricate ones that centered on the security, reliability of the bridge. We asked:
 
 * What is the user trying to accomplish when initiating a transaction between the chains?
 * What should be the user experience for a non-crypto user?
@@ -26,13 +26,13 @@ These questions led us to many discussions and deciding on the architecture of t
 * use a Trusted custodian, usually a group of trusted resource for added security and de-centralization
 * Running a lighter node of a chain in the other chain to conduct on-chain validation
 
-Zero Bridge is at the forefront of this challenge and leads the way to make this a reality by integrating Ethereum, Algorand, Polygon and other EVM and non-EVM blockchains. For our TestNet implementation, our scope was to bridge assets among Ethereum, Algorand and Polygon.&#x20;
-
-![](../.gitbook/assets/1.bridge-block-dgm.jpg)
-
 ### Approach
 
 We decided to use the **Trusted Custodian** approach with a group of **Soldiers** to validate the transaction. We used the **"Lock & Mint"** method of transferring tokens between the chains. Users send a native Token from their wallet and it appears as a Wrapped asset in the destination chain.
+
+&#x20;For our TestNet implementation, our scope was to bridge assets among Ethereum, Algorand and Polygon.&#x20;
+
+![](../.gitbook/assets/1.bridge-block-dgm.jpg)
 
 ### Scenario
 
@@ -40,3 +40,6 @@ For an Ethereum to Algorand transfer scenario, the user sends a Token (ERC20) fr
 
 ![](../.gitbook/assets/3.bridge-usecase.jpg)
 
+### Future Implementation
+
+Our future implementation wlil use State Proofs to provide on-chain validation for a complete decentralized bridge.
