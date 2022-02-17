@@ -4,6 +4,8 @@ description: What does the bridge cover and how to use it
 
 # Zero Bridge Dapp
 
+![](../.gitbook/assets/zerobridge-ui.png)
+
 ### Dapp URLs
 
 #### Mainet:
