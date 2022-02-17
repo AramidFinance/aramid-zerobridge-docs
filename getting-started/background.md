@@ -2,9 +2,7 @@
 
 **ZeroBridge** is a decentralized cross chain communication protocol that allows transactions from evm to evm and evm to non-evm blockchains. Our current implementation supports 3-way communication among Ethereum, Algorand and Polygon chains and deployed in TestNet environments.
 
-
-
-![](../.gitbook/assets/1.bridge-block-dgm.jpg)
+![](../.gitbook/assets/1.bridge-block.jpg)
 
 Follow us on Twitter at @AramidFinance
 
