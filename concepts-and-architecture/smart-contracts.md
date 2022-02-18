@@ -1,19 +1,33 @@
 # Smart Contracts
 
-###
+### Bridge Contract and Token Addresses
 
-### <mark style="color:blue;">Bridge Contract Addresses</mark>
+{% tabs %}
+{% tab title="Ropsten" %}
+| Contracts and Tokens | Address |
+| -------------------- | ------- |
+| **Bridge Contract**  |         |
+| **ZB1 Token**        |         |
+| **ZB2 Token**        |         |
+{% endtab %}
 
-| Environment | Address |
-| ----------- | ------- |
-| Ropsten     |         |
-| Rinkeby     |         |
-| Polygon     |         |
+{% tab title="Rinkeby" %}
+| Contracts and Tokens | Address |
+| -------------------- | ------- |
+| **Bridge Contract**  |         |
+| **ZB1 Token**        |         |
+| **ZB2 Token**        |         |
+{% endtab %}
 
-### Tokens and their Addresses
+{% tab title="Polygon" %}
+| Contracts and Tokens | Address |
+| -------------------- | ------- |
+| **Bridge Contract**  |         |
+| **ZB1 Token**        |         |
+| **ZB2 Token**        |         |
+{% endtab %}
 
-| Token | Environment | Address |
-| ----- | ----------- | ------- |
-| ZB2   | Ropsten     |         |
-| ZB2   | Rinkeby     |         |
-| ZB2   | Polygon     |         |
+{% tab title="Algorand" %}
+
+{% endtab %}
+{% endtabs %}
