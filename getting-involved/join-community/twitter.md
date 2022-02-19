@@ -1,9 +1,7 @@
 ---
-description: Follow ZeroBridge on Twitter
+description: Follow ZeroBridge on Twitter at @Aramidfinance
 ---
 
 # Twitter
 
-[https://twitter.com/zeroBRlDGE](https://twitter.com/zeroBRlDGE)
-
-{% embed url="https://twitter.com/zeroBRlDGE" %}
+{% embed url="https://twitter.com/AramidFinance" %}
