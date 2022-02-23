@@ -2,9 +2,9 @@
 description: Overview on Zero Bridge
 ---
 
-# Zero Bridge
+# Aramid 
 
-Zero Bridge is a decentralized multi chain bridge focussed on **Algorand**, EVM and other non-EVM blockchains. It bridges assets in a secure, cost effective and scalable manner to foster cross-chain communication. 
+Aramid Bridge is a decentralized cross-chain bridge focused on **Algorand**, EVM-based chains (soon so-called WASM chains). It bridges assets in a secure, cost-effective and fast way.
 
 #### <mark style="color:orange;">**Currently deployed to Algorand, Ethereum and Polygon**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">TestNets</mark><mark style="color:orange;">**.**</mark>
 
