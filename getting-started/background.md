@@ -1,6 +1,6 @@
 # Introduction
 
-**ZeroBridge** is a decentralized cross chain communication protocol that allows transactions from evm to evm and evm to non-evm blockchains. Our current implementation supports 3-way communication among Ethereum, Algorand and Polygon chains and is deployed in respective TestNet environments.
+**Aramid** is a decentralized cross chain communication protocol that allows transactions from evm to evm and evm to non-evm blockchains. Our current implementation supports 3-way communication among Ethereum, Algorand and Polygon chains and is deployed in respective TestNet environments.
 
 ![](../.gitbook/assets/1.bridge-block.jpg)
 

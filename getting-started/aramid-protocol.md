@@ -1,4 +1,4 @@
-# Zero Bridge
+# Aramid Protocol
 
 ### Bridges and Challenges
 
@@ -12,9 +12,9 @@ Unfortunately, solving one of the issues conflicts with others. Different bridge
 
 Current bridges in the market have _security_ issues that slows down the adoption blockchain applications. Also, many bridges uses KYC to onboard users that makes user experience unsatisfactory.
 
-## ZERO Bridge
+## Aramid Protocol
 
-Zero Bridge leads the way by taking a holistic approach to design the system with **Security** being front and centered. A secure system makes people to feel safe to conduct transactions. Before building the Zero Bridge, we asked ourselves many questions from very basic ones like the usability of the Bridge to more intricate ones that centered on the security, reliability of the bridge. We asked:
+Aramid Protocol leads the way by taking a holistic approach to design the system with **Security** being front and centered. A secure system makes people to feel safe to conduct transactions. Before building the Aramid Protocol, we asked ourselves many questions from very basic ones like the usability of the Bridge to more intricate ones that centered on the security, reliability of the bridge. We asked:
 
 * What is the user trying to accomplish when initiating a transaction between the chains?
 * What should be the user experience for a non-crypto user?

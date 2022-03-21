@@ -1,8 +1,8 @@
 ---
-description: List of Zero Bridge repositories
+description: List of Aramid repositories
 ---
 
-# Zero Bridge Repository
+# Aramid Repository
 
 #### Smart Contract
 
@@ -20,11 +20,11 @@ Validator code for creating pub-sub network, bootstrapping validator nodes/soldi
 Validator Network
 {% endembed %}
 
-#### Zero Bridge DApp
+#### Aramid DApp
 
 User friendly DApp to exchange Tokens
 
 {% embed url="https://github.com/ZeroBridge/zero-bridge-ui" %}
-Zero Bridge DApp
+Aramid DApp
 {% endembed %}
 

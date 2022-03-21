@@ -1,10 +1,10 @@
 ---
-description: Zero Bridge
+description: Aramid Protocol
 ---
 
 # Architecture
 
-Zero Bridge architecture ensures secure and reliable asset transfer between the chains. The system has smart contracts and tokens deployed in the Ethereum and Polygon chains. A multisig account owns the ASAs in the Algorand chain. A peer-to-peer soldier network generates a cryptographic proof by verifying message signatures off chain and submits request on chain after threshold signtaure is reached. The multisig is further verified on chain before the asset is released.&#x20;
+Aramid Protocol architecture ensures secure and reliable asset transfer between the chains. The system has smart contracts and tokens deployed in the Ethereum and Polygon chains. A multisig account owns the ASAs in the Algorand chain. A peer-to-peer soldier network generates a cryptographic proof by verifying message signatures off chain and submits request on chain after threshold signtaure is reached. The multisig is further verified on chain before the asset is released.&#x20;
 
 ### Bridge Setup
 
@@ -22,7 +22,7 @@ If all decoded addresses are unique, and there are enough of them (> bridge defi
 
 ### Algorand MultiSig Wallet
 
-On the Algorand blockchain, the zero bridge treasury is defined by the [multi-signature wallet](https://developer.algorand.org/docs/get-details/accounts/create/?from\_query=multisig#multisignature) who mints ASA.
+On the Algorand blockchain, the Aramid Protocol treasury is defined by the [multi-signature wallet](https://developer.algorand.org/docs/get-details/accounts/create/?from\_query=multisig#multisignature) who mints ASA.
 
 ### Event Triggering
 
@@ -32,7 +32,7 @@ As the user request to transfer an asset is submitted on the chain, an event is 
 
 The peer to peer network is described in details in the soldier nodes section validates all transactions off-chain before it is posted on chain.
 
-Pictorial representation of different components of zero bridge system is provided below:
+Pictorial representation of different components of Aramid Protocol system is provided below:
 
 ![](../.gitbook/assets/2.bridge-arch.jpg)
 

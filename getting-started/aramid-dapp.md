@@ -2,7 +2,7 @@
 description: What does the bridge cover and how to use it
 ---
 
-# Zero Bridge Dapp
+# Aramid Dapp
 
 ![bridge screenshot psd](https://user-images.githubusercontent.com/34012681/154877903-0eb4355b-ebce-4b11-98db-30398e01d03a.png)
 
@@ -43,4 +43,4 @@ The bridging options have been separated into **non-EVM to non-EVM**, **EVM to n
 
 3\. Select asset to be bridged
 
-#### Note: nothing should go wrong. We have safety mechanisms in place for exception sceanrios. Please visit the Troubleshooting section for your specific issues.
+#### Note: nothing should go wrong. We have safety mechanisms in place for exception scenarios. Please visit the Troubleshooting section for your specific issues.
