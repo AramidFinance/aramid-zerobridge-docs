@@ -1,8 +1,10 @@
 # Smart Contracts and Multi-Sig Wallets
 
+## Multi-Sig Wallets
+
+
 ## Smart Contracts
 
-## Multi-Sig Wallets
 
 ### Bridge Contract and Token Addresses
 
