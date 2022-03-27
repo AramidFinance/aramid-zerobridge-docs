@@ -22,7 +22,6 @@
 * [The team DAO](getting-involved/the-team-dao.md)
 * [Developer](getting-involved/developer/README.md)
   * [Zero Bridge Repository](getting-involved/developer/zero-bridge-repository.md)
-  * [Docker](getting-involved/developer/docker.md)
   * [Running Apps locally](getting-involved/developer/running-apps-locally.md)
   * [Configurations](getting-involved/developer/configurations.md)
 * [Soldier Node Operator](getting-involved/node-operator/README.md)
