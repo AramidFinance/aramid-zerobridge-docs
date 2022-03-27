@@ -16,4 +16,8 @@
 
 ### **Phase 3 --> Cross-chain swapping**
 
+> A cross-chain atomic swap makes it possible to trade cryptocurrencies directly between people without the limitations of source and destination blockchains.
+
 ### **Phase 4 --> Multi-Chain DEX**
+
+> DEXs allow trading without an intermediary. Users don't need to give up custody of their coins.
