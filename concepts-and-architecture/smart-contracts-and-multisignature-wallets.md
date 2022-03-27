@@ -6,6 +6,8 @@
 ## Smart Contracts
 
 
+-------
+
 ### Bridge Contract and Token Addresses
 
 {% tabs %}
