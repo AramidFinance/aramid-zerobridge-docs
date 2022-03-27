@@ -8,6 +8,6 @@ When validators reach a consensus on whether or not to release a transfer, they 
 
 ## Smart Contracts
 
-On the ethereum blockchain, we have an identical architecture. 
+On the EVM blockchains, we have an identical architecture. 
 
 The difference here, is that ethereum has slightly more flexibility language wise, than algorand allows, and so we have developed an optimised multi-sig wallet on ethereum, which incorporates governance into the internal methods.
