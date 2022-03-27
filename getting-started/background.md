@@ -28,3 +28,5 @@ These changes are manifested in our bridge as moving assets from one chain to an
 * Cryptographically Secure
 * Multi-Signature validation and on chain verification
 * Non-Custodial
+
+`Next, we will perform such a transfer with paper money ...`
