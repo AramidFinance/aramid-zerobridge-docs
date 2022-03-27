@@ -13,3 +13,5 @@ To learn to use the app, your first port of call should be our tutorial videos:
 {% endhint %}
 
 If the app is still not working for you after these steps, best to go to our discord and ask the team!
+
+`Let's now get a bit deeper into the architecture of the protocol ...`
