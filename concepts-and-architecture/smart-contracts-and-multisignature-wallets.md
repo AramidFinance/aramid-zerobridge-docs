@@ -8,7 +8,9 @@ When validators reach a consensus on whether or not to release a transfer, they 
 
 ## Smart Contracts
 
-On the ethereum blockchain, we have an identical architecture, however, the contracts are custom, as ethereum does not enable built-in multi-sig wallets, like algorand. So we built our own, with solidity.
+On the ethereum blockchain, we have an identical architecture. 
+
+The difference here, is that ethereum has slightly more flexibility language wise, than algorand allows, and so we have developed an optimised multi-sig wallet on ethereum, which incorporates governance into the internal methods.
 
 -------
 
