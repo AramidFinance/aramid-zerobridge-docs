@@ -5,10 +5,9 @@
 ## Getting Started
 
 * [Introduction](getting-started/background.md)
-* [Aramid Bridge](getting-started/zero-bridge.md)
-* [Aramid Bridge Dapp](getting-started/zero-bridge-dapp.md)
+* [The Bridge](getting-started/zero-bridge.md)
 
-## Concepts & architecture
+## Project Overview
 
 * [Architecture](concepts-and-architecture/architecture.md)
 * [Soldier Nodes](concepts-and-architecture/validator-network.md)
