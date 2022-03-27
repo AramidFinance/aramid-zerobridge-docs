@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/1.bridge-block.jpg)
 
-### Blockchain Ecosystem & Challenges
+### Blockchains: A Quick Overview
 
 A blockchain is a distributed, immuatable, ledger. A history of communication between parties. 
 
