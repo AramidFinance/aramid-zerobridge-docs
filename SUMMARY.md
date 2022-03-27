@@ -9,7 +9,7 @@
 
 ## Project Overview
 
-* [Architecture](concepts-and-architecture/architecture.md)
+* [Protocol](concepts-and-architecture/Protocol.md)
   * [Smart Contracts](concepts-and-architecture/smart-contracts.md)
   * [Soldier Nodes](concepts-and-architecture/validator-network.md)
 * [Security and Risks](concepts-and-architecture/risk-analysis.md)
