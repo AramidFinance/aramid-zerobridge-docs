@@ -26,12 +26,6 @@ The network has two topics defined, "validateEth" and "validateAlgo". It uses pu
 
 > A soldier can be added or removed by our governance system.
 
-### Governance
-
-When we talk about governance of a bridge, what we mean is that there are only certain validators allowed to sign transactions, and there are only certain tokens allowed to be transfered cross-chain.
-
-These are decided by our governance members, who, in turn, will decide based on factors, such as stable-coin distributor relations, and crypto partnerships.
-
 ### Incentivization
 
 Soldiers in the system are incentivized to validate the transactions and keep the system safe and secure.
