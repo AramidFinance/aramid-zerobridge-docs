@@ -12,7 +12,7 @@ On the EVM blockchains, we have an identical architecture.
 
 The difference here, is that ethereum has slightly more flexibility language wise, than algorand allows, and so we have developed an optimised multi-sig wallet on ethereum, which incorporates governance into the internal methods.
 
-### Governance
+## Governance
 
 When we talk about governance of a bridge, what we mean is that there are only certain validators allowed to sign transactions, and there are only certain tokens allowed to be transfered cross-chain.
 
