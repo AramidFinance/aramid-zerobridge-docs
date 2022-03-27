@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Aramids Zero Bridge](README.md)
+* [Aramid Bridge](README.md)
 
 ## Getting Started
 
 * [Introduction](getting-started/background.md)
-* [Zero Bridge](getting-started/zero-bridge.md)
-* [Zero Bridge Dapp](getting-started/zero-bridge-dapp.md)
+* [Aramid Bridge](getting-started/zero-bridge.md)
+* [Aramid Bridge Dapp](getting-started/zero-bridge-dapp.md)
 
 ## Concepts & architecture
 
