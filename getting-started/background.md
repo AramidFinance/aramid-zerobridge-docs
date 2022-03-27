@@ -25,7 +25,6 @@ These changes are manifested in our bridge as moving assets from one chain to an
 * Seamless user interaction
 * Supports both EVM and AVM
 * Cryptographically secure
-* Multi-Signature validation and on chain verification
 * Permissionless transfers
 * Decentralised architecture
 
