@@ -1,5 +1,7 @@
 # Soldier Nodes
 
+![](../.gitbook/assets/8.soldier-network.jpg)
+
 ## Architecture Overview
 
 The so called `soldier network` of validators is a peer-to-peer network where the nodes communicate with one another directly.
@@ -21,8 +23,6 @@ When a soldier sees a p2p-message, it queries the blockchain to see if the trans
 If these conditions are met, it then adds it's own signature to the message and propagates the new message to the other peers in the network.
 
 If a threshold number of soldiers have signed, the transaction will be submitted on-chain.
-
-![](../.gitbook/assets/8.soldier-network.jpg)
 
 ### Disaster Recovery
 
