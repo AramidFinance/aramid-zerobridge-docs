@@ -22,7 +22,6 @@
   * [Discord](getting-involved/join-community/discord.md)
   * 
 * [Developer](getting-involved/developer/README.md)
-  * [Zero Bridge Repository](getting-involved/developer/zero-bridge-repository.md)
   * [Configurations](getting-involved/developer/configurations.md)
   * [Running Apps locally](getting-involved/developer/running-apps-locally.md)
 * [Soldier Node Operator](getting-involved/node-operator/README.md)
