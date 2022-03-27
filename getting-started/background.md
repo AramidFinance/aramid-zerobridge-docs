@@ -9,13 +9,9 @@
 * Evm and non-evm chain communication
 * Seamless user interaction
 * Trustless Protocol
-* Cryptographically Secure like L1 network
-* Multisig validation and on chain verification
-* User in control of their funds
-
-{% hint style="info" %}
-Follow us on Twitter at @AramidFinance
-{% endhint %}
+* Cryptographically Secure
+* Multi-Signature validation and on chain verification
+* Non-Custodial
 
 ### Blockchain Ecosystem & Challenges
 
