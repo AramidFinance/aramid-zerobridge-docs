@@ -31,3 +31,5 @@ Each of the soldiers in the network maintain their state in a database. In case 
 ### Incentivization
 
 Soldiers in the system are incentivized to validate the transactions and keep the system safe and secure.
+
+`The audits ...`
