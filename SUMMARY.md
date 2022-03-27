@@ -5,7 +5,7 @@
 ## Getting Started
 
 * [Introduction](getting-started/background.md)
-* [The Bridge](getting-started/zero-bridge.md)
+* [How To Use](getting-started/how-to-use.md)
 
 ## Project Overview
 
