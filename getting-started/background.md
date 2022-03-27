@@ -23,7 +23,7 @@ These changes are manifested in our bridge as moving assets from one chain to an
 ### Main Features of our Bridge
 
 * Seamless user interaction
-* Supports both EVM and AVM
+* Supports both EVM and AVM chains
 * Cryptographically secure
 * Permissionless transfers
 * Decentralised architecture
