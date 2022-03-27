@@ -13,15 +13,11 @@ At a high level, this is how the protocol works:
 - If it is valid, they sign the message, and pass it on.
 - If enough signatures are found, the transaction is executed on the secondary chain.
 
-Here are some diagrams which aim to explain the process visually.
-
-### Process Flow
-
-The detail steps and its interaction with individual components for an Ethereum to Algorand asset transfer is shown below:
+> Here are some diagrams which aim to explain the process visually:
 
 ![](../.gitbook/assets/2.bridge-arch-flow.jpg)
 
-Pictorial representation of different components of Aramid Protocol system is provided below:
+> A slightly more in depth diagram, including governance, is displayed below:
 
 ![](../.gitbook/assets/2.bridge-arch.jpg)
 
