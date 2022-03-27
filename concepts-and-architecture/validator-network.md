@@ -16,13 +16,13 @@ When nodes want to communicate with each other, they need to discover other node
 
 The network has two topics defined, "validateEth" and "validateAlgo". It uses pubsub interface to verify, sign and send messages to all the peers for defined topics using the extensible gossip protocol "gossipsub".
 
-When a soldier sees a transaction, it records it, signs it, and then passes the p2p-message to the other soldiers.
+- When a soldier sees a transaction, it records it, signs it, and then passes the p2p-message to the other soldiers.
 
-When a soldier sees a p2p-message, it queries the blockchain to see if the transaction is valid, and it makes sure it has not yet signed the message.
+- When a soldier sees a p2p-message, it queries the blockchain to see if the transaction is valid, and it makes sure it has not yet signed the message.
 
-If these conditions are met, it then adds it's own signature to the message and propagates the new message to the other peers in the network.
+- If these conditions are met, it then adds it's own signature to the message and propagates the new message to the other peers in the network.
 
-If a threshold number of soldiers have signed, the transaction will be submitted on-chain.
+- If a threshold number of soldiers have signed, the transaction will be submitted on-chain.
 
 ### Disaster Recovery
 
