@@ -21,3 +21,4 @@ At a high level, this is how the protocol works:
 
 ![](../.gitbook/assets/2.bridge-arch.jpg)
 
+`On to the ins and outs of our on-chain assets ...`
