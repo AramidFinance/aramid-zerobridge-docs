@@ -16,7 +16,7 @@ When nodes want to communicate with each other, they need to discover other node
 
 The network has two topics defined, "validateEth" and "validateAlgo". It uses pubsub interface to verify, sign and send messages to all the peers for defined topics using the extensible gossip protocol "gossipsub".
 
-- When a soldier sees a transaction, it records it, signs it, and then passes the p2p-message to the other soldiers.
+- When a soldier sees a transaction, it records it, signs it, and then passes the p2p-message to the other soldiers. We use redis for recording the transactions any of our soldiers have recieved.
 
 - When a soldier sees a p2p-message, it queries the blockchain to see if the transaction is valid, and it makes sure it has not yet signed the message.
 
@@ -24,18 +24,20 @@ The network has two topics defined, "validateEth" and "validateAlgo". It uses pu
 
 - If a threshold number of soldiers have signed, the transaction will be submitted on-chain in the form of an optimised byte string.
 
+> A soldier can be added or removed by our governance system.
+
 ### Governance
 
 When we talk about governance of a bridge, what we mean is that there are only certain validators allowed to sign transactions, and there are only certain tokens allowed to be transfered cross-chain.
 
-These are decided by our governance members, who, in turn, will decide based on factors, such as stable-coin distributors relations, and crypto partnerships.
-
-### Disaster Recovery
-
-Each of the soldiers in the network maintain their state in a database. In case of any unforeseen shutdown, they can come online by reading data from their storage medium.
+These are decided by our governance members, who, in turn, will decide based on factors, such as stable-coin distributor relations, and crypto partnerships.
 
 ### Incentivization
 
 Soldiers in the system are incentivized to validate the transactions and keep the system safe and secure.
+
+### Disaster Recovery
+
+Each of the soldiers in the network maintain their state in a database. In case of any unforeseen shutdown, they can come online by reading data from their storage medium.
 
 `The audits ...`
