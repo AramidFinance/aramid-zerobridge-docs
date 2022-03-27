@@ -17,7 +17,6 @@
 
 ## Getting Involved
 
-/*
 * [Developer](getting-involved/developer/README.md)
   * [Zero Bridge Repository](getting-involved/developer/zero-bridge-repository.md)
   * [Configurations](getting-involved/developer/configurations.md)
@@ -26,7 +25,6 @@
   * [How to become a soldier](getting-involved/node-operator/be-a-soldier-in-validator-network.md)
   * [Staking & Slashing](getting-involved/node-operator/staking-and-slashing.md)
   * [Payout](getting-involved/node-operator/payout.md)
-*/
 
 * [Join Community](getting-involved/join-community/README.md)
   * [Twitter](getting-involved/join-community/twitter.md)
