@@ -20,11 +20,9 @@
 * [Join Community](getting-involved/join-community/README.md)
   * [Twitter](getting-involved/join-community/twitter.md)
   * [Discord](getting-involved/join-community/discord.md)
-  * 
 * [Developer](getting-involved/developer/README.md)
 * [Soldier Node Operator](getting-involved/node-operator/README.md)
 
 ## FAQ and Support
 
-* [Frequently asked questions](faq-and-support/frequently-asked-questions.md)
 * [Help and support](faq-and-support/help-and-support.md)
