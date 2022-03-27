@@ -22,11 +22,10 @@ These changes are manifested in our bridge as moving assets from one chain to an
 
 ### Main Features of our Bridge
 
-* Evm and non-evm chain communication
 * Seamless user interaction
-* Permissionless Transfers
+* Supports both EVM and AVM
 * Cryptographically Secure
 * Multi-Signature validation and on chain verification
-* Non-Custodial
+* Permissionless Transfers
 
 `Next, we will perform such a transfer with paper money ...`
