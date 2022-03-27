@@ -24,7 +24,7 @@ These changes are manifested in our bridge as moving assets from one chain to an
 
 * Evm and non-evm chain communication
 * Seamless user interaction
-* Trustless Protocol
+* Permissionless Transfers
 * Cryptographically Secure
 * Multi-Signature validation and on chain verification
 * Non-Custodial
