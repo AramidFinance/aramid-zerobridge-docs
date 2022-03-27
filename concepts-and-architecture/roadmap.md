@@ -4,7 +4,7 @@
 
 ### **Phase 1 --> The multichain bridge**
 
-<mark style="color:yellow;">Spring 2022</mark>
+<mark style="color:blue;">Spring 2022</mark>
 
 > Secure, cost-effective/ efficient, decentralised bridging of native to wrapped assets between Algorand and selected EVM compatible blockchains (Ethereum, Polygon, Lukso, Binance Smart Chain, Celo, Fantom ...)
 
