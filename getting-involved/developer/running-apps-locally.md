@@ -1,6 +1,3 @@
----
-description: Steps to run the application on local environments
----
-
 # Running Apps locally
 
+> Released for main-net. Watch this space!
