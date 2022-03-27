@@ -22,12 +22,7 @@
   * [Discord](getting-involved/join-community/discord.md)
   * 
 * [Developer](getting-involved/developer/README.md)
-  * [Configurations](getting-involved/developer/configurations.md)
-  * [Running Apps locally](getting-involved/developer/running-apps-locally.md)
 * [Soldier Node Operator](getting-involved/node-operator/README.md)
-  * [How to become a soldier](getting-involved/node-operator/be-a-soldier-in-validator-network.md)
-  * [Staking & Slashing](getting-involved/node-operator/staking-and-slashing.md)
-  * [Payout](getting-involved/node-operator/payout.md)
 
 ## FAQ and Support
 
