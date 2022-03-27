@@ -8,11 +8,13 @@
 
 A blockchain is a distributed, immuatable, ledger. A history of communication between parties. 
 
-The blockchain ecosystem have grown considerably in the last decade with proliferation of decentralized applications (DApps) with use-cases such as Digital Identity, Decentralized Finance (DeFi), Gaming, Non Fungible Tokens (NFTs) and many more. 
+The blockchain ecosystem has grown considerably in the last decade with proliferation of decentralized applications (DApps) with use-cases such as Digital Identity, Decentralized Finance (DeFi), Gaming, Non Fungible Tokens (NFTs) and many more. 
 
-The growth of these blockchains have not been uniform. Ethereum ecosystem has grown considerably in last few years with many DApps across many business domains. However, for others, it has not been so stellar. These blockchains provide benefits and challenges unique to themselves. For example, the cost of executing transactions in Ethereum is very high. In addition, there are challenges with the scalability of the network. 
+The growth of these blockchains have not been uniform. For example, the Ethereum ecosystem has grown considerably in last few years with many DApps across many business domains. However, for others, it has not been so stellar. These blockchains provide benefits and challenges unique to themselves. For example, the cost of executing transactions in Ethereum is very high. In addition, there are challenges with the scalability of the network. 
 
 On the other hand, Algorand, a non-EVM Layer-1 blockchain, has very low transaction fee and higher throughput. Similarly, Polygon, a Layer-2 scaling solution, also has low transaction cost. However, these blockchains and DApps exist as silos and there is very little interaction among them.
+
+This is where bridges come in.
 
 ### What is a Bridge?
 
