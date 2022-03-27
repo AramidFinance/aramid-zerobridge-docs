@@ -24,7 +24,7 @@ The network has two topics defined, "validateEth" and "validateAlgo". It uses pu
 
 - If a threshold number of soldiers have signed, the transaction will be submitted on-chain in the form of an optimised byte string.
 
-> A soldier can be added or removed by our governance system.
+> Misbehaving actors will be removed, using our governance system.
 
 ### Incentivization
 
