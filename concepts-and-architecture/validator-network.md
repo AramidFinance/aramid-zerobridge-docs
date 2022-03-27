@@ -22,7 +22,13 @@ The network has two topics defined, "validateEth" and "validateAlgo". It uses pu
 
 - If these conditions are met, it then adds it's own signature to the message and propagates the new message to the other peers in the network.
 
-- If a threshold number of soldiers have signed, the transaction will be submitted on-chain.
+- If a threshold number of soldiers have signed, the transaction will be submitted on-chain in the form of an optimised byte string.
+
+### Governance
+
+When we talk about governance of a bridge, what we mean is that there are only certain validators allowed to sign transactions, and there are only certain tokens allowed to be transfered cross-chain.
+
+These are decided by our governance members, who, in turn, will decide based on factors, such as stable-coin distributors relations, and crypto partnerships.
 
 ### Disaster Recovery
 
