@@ -18,7 +18,6 @@
 
 ## Getting Involved
 
-* [The team DAO](getting-involved/the-team-dao.md)
 * [Developer](getting-involved/developer/README.md)
   * [Zero Bridge Repository](getting-involved/developer/zero-bridge-repository.md)
   * [Configurations](getting-involved/developer/configurations.md)
