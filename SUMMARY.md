@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Zero Bridge](README.md)
+* [Aramids Zero Bridge](README.md)
 
 ## Getting Started
 
