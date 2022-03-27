@@ -4,7 +4,7 @@ description: Aramid Protocol
 
 # Protocol
 
-At a high level, here is how the protocol works:
+At a high level, this is how the protocol works:
 
 - User sends tokens to the bridge contracts on one of the blockchains.
 - The bridge, which consists of many automated nodes watching the blockchain for transactions, logs a new transaction.
@@ -13,7 +13,7 @@ At a high level, here is how the protocol works:
 - If it is valid, they sign the message, and pass it on.
 - If enough signatures are found, the transaction is executed on the secondary chain.
 
-Here are some diagrams which aim to explain the process visually/
+Here are some diagrams which aim to explain the process visually.
 
 ### Process Flow
 
