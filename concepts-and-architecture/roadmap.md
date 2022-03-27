@@ -1,7 +1,5 @@
 # Roadmap
 
-![](../.gitbook/assets/roadmap.png)
-
 ### **Phase 1 --> The multichain bridge**
 
 <mark style="color:blue;">Spring 2022</mark>
