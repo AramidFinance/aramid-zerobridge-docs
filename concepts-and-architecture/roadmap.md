@@ -17,3 +17,5 @@
 ### **Phase 4 --> Multi-Chain DEX**
 
 > DEXs allow trading without an intermediary. Users don't need to give up custody of their coins.
+
+`Community matters, alot! ...`
