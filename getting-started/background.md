@@ -8,7 +8,7 @@ A blockchain is a distributed, immuatable, ledger. A history of communication be
 
 The blockchain ecosystem has grown considerably in the last decade with proliferation of decentralized applications (DApps) with use-cases such as Digital Identity, Decentralized Finance (DeFi), Gaming, Non Fungible Tokens (NFTs) and many more. 
 
-Each blockchain provides benefits and challenges unique to themselves. For example, whereas Ethereum was the first programmable blockchain, the cost of executing transactions in it is very high and there are challenges with the scalability of the network. 
+Each blockchain provides benefits and challenges unique to itself. For example, whereas Ethereum was the first programmable blockchain, the cost of executing transactions in it is very high and there are challenges with the scalability of the network. 
 
 On the other hand, Algorand, a non-EVM Layer-1 blockchain, has very low transaction fee and higher throughput. Similarly, Polygon, a Layer-2 scaling solution, also has low transaction cost. However, these blockchains and DApps exist as silos and there is very little interaction among them.
 
