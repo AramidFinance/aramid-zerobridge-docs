@@ -12,7 +12,7 @@ When a soldier sees a transaction, it leverages the [libp2p networking stack](ht
 
 This network transmits messages from one peer to another. It uses public key cryptography to define identity, where each node has a unique Peer ID, which allows them to identify each other and filter communications.
 
-The network has two communication topics defined, "validateEth" and "validateAlgo". It uses the `pubsub` protocol to verify, sign and send messages to all the peers for defined topics.
+The network has two communication topics defined, `validateEth` and `validateAlgo`. It uses the `pubsub` protocol to verify, sign and send messages to all the peers for defined topics.
 
 - When a soldier sees a transaction, it records it, signs it, and then passes the p2p-message to the other soldiers. We use redis for recording the transactions any of our soldiers have recieved.
 
