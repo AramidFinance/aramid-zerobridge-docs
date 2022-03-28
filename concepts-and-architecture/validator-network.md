@@ -26,7 +26,9 @@ The network has two communication topics defined, `validateEth` and `validateAlg
 
 ### Incentivization
 
-Soldiers in the system are incentivized to validate the transactions and keep the system safe and secure.
+Soldiers in the system are incentivized to validate the transactions and keep the system safe and secure. 
+
+How are they rewarded? Well, our bridge will take a fee from each transfer a user makes, and a percentage of this will be automatically distributed to the validators.
 
 ### Disaster Recovery
 
