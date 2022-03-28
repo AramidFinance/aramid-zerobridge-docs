@@ -1,6 +1,6 @@
 # Roadmap
 
-### **Phase 1 --> The multichain bridge**
+### **Phase 1 --> Multichain bridge**
 
 > Secure, cost-effective/ efficient, decentralised bridging of native to wrapped assets between Algorand and selected EVM compatible blockchains (Ethereum, Polygon, Lukso, Binance Smart Chain, Celo, Fantom ...)
 
