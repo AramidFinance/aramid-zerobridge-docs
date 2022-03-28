@@ -10,11 +10,9 @@ Each solider watches a contract/ASA address, and is expecting to see a transacti
 
 When a soldier sees a transaction, it leverages the [libp2p networking stack](https://libp2p.io/) for messaging and communication. 
 
-This network transmits messages from one peer to another. It uses public key cryptography as the basis of peer identity. Each node has their unique Peer ID, which allows them to identify each other and communicate among themselves.
+This network transmits messages from one peer to another. It uses public key cryptography to define identity, where each node has a unique Peer ID, which allows them to identify each other and filter communications.
 
-When nodes want to communicate with each other, they need to discover other nodes and use their Peer ID to send message.
-
-The network has two topics defined, "validateEth" and "validateAlgo". It uses pubsub interface to verify, sign and send messages to all the peers for defined topics using the extensible gossip protocol "gossipsub".
+The network has two communication topics defined, "validateEth" and "validateAlgo". It uses pubsub interface to verify, sign and send messages to all the peers for defined topics using the extensible gossip protocol `gossipsub`.
 
 - When a soldier sees a transaction, it records it, signs it, and then passes the p2p-message to the other soldiers. We use redis for recording the transactions any of our soldiers have recieved.
 
