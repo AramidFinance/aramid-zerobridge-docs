@@ -32,6 +32,8 @@ How are they rewarded? Well, the bridge will take a fee from each transfer a use
 
 ### Disaster Recovery
 
-Each of the soldiers in the network maintain their state in a database. In case of any unforeseen shutdown, they can come online by reading data from their storage medium.
+Each of the soldiers in the network maintain their state in a database. In case of any unforeseen shutdown, they can come online by reading data from their storage medium. 
+
+The database is a local redis instance, and a soldier must maintain it in order to be considered a benevolent actor.
 
 `The audits ...`
