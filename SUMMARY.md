@@ -5,6 +5,7 @@
 ## Getting Started
 
 * [Introduction](getting-started/background.md)
+* [Litepaper](getting-started/litepaper.md)
 * [How To Use](getting-started/how-to-use.md)
 
 ## Project Overview
