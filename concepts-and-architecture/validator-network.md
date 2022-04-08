@@ -24,16 +24,10 @@ The network has two communication topics defined, `validateEth` and `validateAlg
 
 > Misbehaving actors will be removed, using our governance system.
 
-### Incentivization
-
-Soldiers in the system are incentivized to validate the transactions and keep the system safe and secure. 
-
-How are they rewarded? Well, the bridge will take a fee from each transfer a user makes, and a percentage of this will be automatically distributed to the validators.
-
 ### Disaster Recovery
 
 Each of the soldiers in the network maintain their state in a database. In case of any unforeseen shutdown, they can come online by reading data from their storage medium. 
 
 The database is a local redis instance, and a soldier must maintain it in order to be considered a benevolent actor.
 
-`The audits ...`
+`The next section is for all the degens out there...`
