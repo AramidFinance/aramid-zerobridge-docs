@@ -1,3 +1,3 @@
 # Help and Support
 
-> Please check out the [discord](https://discord.gg/kDfHEMGy), for now!
+> Please check out the [discord](https://discord.gg/kDfHEMGy)!
