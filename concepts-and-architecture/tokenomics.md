@@ -1,7 +1,5 @@
 # Tokenomics and Token-Engineering
 
-For our project, we are using the best tools we know to make sure that the token we deploy will have use and longetivity. 
-
 For complex eco-systems with many intelligent agents, it is useful to model a token and the crypto-economics that it is built with. For this, we are using [TokenSPICE](https://github.com/tokenspice).
 
 > TokenSPICE simulates tokenized ecosystems via an agent-based approach, with EVM in-the-loop.
