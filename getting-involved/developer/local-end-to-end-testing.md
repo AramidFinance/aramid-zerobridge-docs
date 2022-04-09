@@ -5,9 +5,9 @@
 ## Environment SetUp
 
 > You will need access to 3 ethereum accounts, and 3 algorand accounts
->
+
 > You will need to fund these accounts with Testnet Ether and Algo 
-> 
+
 > You will need access to 3 ethereum testnet endpoints, and 3 algorand testnet endpoints: `we will provide some, but it is recommended you create your own`
 
 ## Ethereum Contract Deployment
