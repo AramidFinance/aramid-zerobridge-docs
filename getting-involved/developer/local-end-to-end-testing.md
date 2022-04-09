@@ -7,7 +7,9 @@
 - As a blockchain developer, you need some basics
 
 > You need a way to interact with your chosen network: a wallet, and it's credentials will allow for this
-> You will need a node to connect to. While it is possible to run your own, the reality is that it requires huge amounts of storage, and is not a way to develop quickly. Instead you will use a IAAS (infrastructure as a service) provider to do this, such as purestake or infura
+
+> You will need a blockchain network node to connect to, to make network interactions with smart contracts. While it is possible to run your own, the reality is that it requires huge amounts of storage, and is not a way to develop quickly. Instead you will use a IAAS (infrastructure as a service) provider to do this, such as purestake or infura
+
 > You will need a good dev environment. If you are not running a UNIX based OS, then WSL is your best bet
 
 - For the bridge specifically, these are your first port of call
