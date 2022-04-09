@@ -1,6 +1,6 @@
 # Overview
 
-- The goal here is to develop a walkthrough so that new devs at aramid can build the entire system 'locally'
+- The goal here is to develop a walkthrough so that new devs at aramid can build the entire system for 'local' testing
 
 ## Installations
 
