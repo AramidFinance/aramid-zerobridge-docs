@@ -6,7 +6,7 @@
 
 > You will need access to 3 ethereum accounts, and 3 algorand accounts
 
-> You will need to fund these accounts with Testnet Ether and Algo 
+> You will need to fund these accounts with testnet Ether and Algo, using the relevant faucets: `e.g.` [rinkeby testnet faucet](https://rinkebyfaucet.com/) or [algorand testnet faucet](https://testnet.algoexplorer.io/dispenser)
 
 > You will need access to 3 ethereum testnet endpoints, and 6 algorand testnet endpoints (3 for `indexer` and 3 for `algod`): `we will provide some, but it is recommended that you create your own`
 
