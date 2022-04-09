@@ -8,7 +8,7 @@
 
 > You will need to fund these accounts with Testnet Ether and Algo 
 
-> You will need access to 3 ethereum testnet endpoints, and 6 algorand testnet endpoints: `we will provide some, but it is recommended that you create your own`
+> You will need access to 3 ethereum testnet endpoints, and 6 algorand testnet endpoints (3 for `indexer` and 3 for `algod`): `we will provide some, but it is recommended that you create your own`
 
 ## Ethereum Contract Deployment
 
