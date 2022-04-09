@@ -13,7 +13,7 @@ git clone git@github.com:AramidFinance/bridge-smart-contracts.git
 > algorand assets
 
 ```
-git clone git@github.com:AramidFinance/algorand-assets.git
+git@github.com:AramidFinance/bridge-algorand-assets.git
 ```
 
 > soldier nodes
