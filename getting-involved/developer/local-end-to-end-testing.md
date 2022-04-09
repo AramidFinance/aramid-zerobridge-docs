@@ -7,7 +7,7 @@
 > ethereum contracts
 
 ```
-git clone git@github.com:AramidFinance/bridge-smart-contracts.git
+git@github.com:AramidFinance/bridge-ethereum-smart-contracts.git
 ```
 
 > algorand assets
