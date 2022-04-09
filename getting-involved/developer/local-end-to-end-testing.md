@@ -1,4 +1,4 @@
-# Overview
+# Overview (WIP)
 
 - The goal here is to develop a walkthrough so that new devs at aramid can build the entire system for 'local' testing
 
@@ -35,7 +35,7 @@ git@github.com:AramidFinance/bridge-algorand-assets.git
 git clone git@github.com:AramidFinance/bridge-soldier-nodejs-app.git
 ```
 
-## System Interaction
+## System Interaction 
 
 ```
 ```
