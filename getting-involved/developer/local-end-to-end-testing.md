@@ -38,13 +38,4 @@ git clone git@github.com:AramidFinance/bridge-soldier-nodejs-app.git
 ## System Interaction
 
 ```
-...
-```
-
-```
-node .../sendEth.js
-```
-
-```
-node .../sendAlgo.js
 ```
