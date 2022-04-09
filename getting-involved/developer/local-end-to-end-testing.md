@@ -4,11 +4,13 @@
 
 ## Environment SetUp
 
-- As a blockchain developer, you need some basics.
+- As a blockchain developer, you need some basics
 
-1. You need a way to interact with your chosen network: a wallet, and it's credentials will allow for this.
-2. You will need a node to connect to. While it is possible to run your own, the reality is that it requires huge amounts of storage, and is not a way to develop quickly. Instead you will use a IAAS (infrastructure as a service) provider to do this, such as purestake or infura.
-3. You will need a good dev environment. If you are not running a UNIX based OS, then WSL is your best bet.
+1. You need a way to interact with your chosen network: a wallet, and it's credentials will allow for this
+2. You will need a node to connect to. While it is possible to run your own, the reality is that it requires huge amounts of storage, and is not a way to develop quickly. Instead you will use a IAAS (infrastructure as a service) provider to do this, such as purestake or infura
+3. You will need a good dev environment. If you are not running a UNIX based OS, then WSL is your best bet
+
+- For the bridge specifically, these are your first port of call
 
 > You will need access to 3 ethereum accounts, and 3 algorand accounts, you can create these using [metamask](https://metamask.io/) and [purestake](https://www.purestake.com/technology/algosigner/). Note down the `private keys and mneumonics`
 
