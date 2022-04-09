@@ -25,7 +25,7 @@
 > install
 
 ```
-git@github.com:AramidFinance/bridge-ethereum-smart-contracts.git
+git clone git@github.com:AramidFinance/bridge-ethereum-smart-contracts.git
 ```
 
 
@@ -34,7 +34,7 @@ git@github.com:AramidFinance/bridge-ethereum-smart-contracts.git
 > install
 
 ```
-git@github.com:AramidFinance/bridge-algorand-assets.git
+git clone git@github.com:AramidFinance/bridge-algorand-assets.git
 ```
 
 ## Soldier Node Initialisation and Monitoring
