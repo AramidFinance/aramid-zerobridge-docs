@@ -29,5 +29,3 @@ These changes are manifested in our bridge as moving assets from one chain to an
 * Cryptographically secure
 * Permissionless transfers
 * Decentralised architecture
-
-`Next, we will perform such a transfer with paper money ...`
