@@ -24,6 +24,7 @@
   * [Discord](getting-involved/join-community/discord.md)
 * [Developer](getting-involved/developer/README.md)
 * [Soldier Node Operator](getting-involved/node-operator/README.md)
+* [On-Chain Addresses](getting-involved/Addresses.md)
 
 ## FAQ and Support
 
