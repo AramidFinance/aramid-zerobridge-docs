@@ -24,7 +24,7 @@
   * [Discord](getting-involved/join-community/discord.md)
 * [Developer](getting-involved/developer/README.md)
 * [Soldier Node Operator](getting-involved/node-operator/README.md)
-* [On-Chain Addresses](getting-involved/Addresses.md)
+* [On-Chain Asset Addresses](getting-involved/Addresses.md)
 * [Aramid Soldier Network](getting-involved/AramidSoldiers.md)
 
 ## FAQ and Support
