@@ -24,14 +24,14 @@ The network has two communication topics defined, `validateEth` and `validateAlg
 
 > Misbehaving actors will be removed, using our governance system.
 
+{% hint style="info" %}
+[mainnet soldier node public information](https://docs.aramid.finance/getting-involved/aramidsoldiers)
+{% endhint %}
+
 ### Disaster Recovery
 
 Each of the soldiers in the network maintain their state in a database. In case of any unforeseen shutdown, they can come online by reading data from their storage medium. 
 
 The database is a local redis instance, and a soldier must maintain it in order to be considered a benevolent actor.
-
-{% hint style="info" %}
-[mainnet soldier node public information](https://docs.aramid.finance/getting-involved/aramidsoldiers)
-{% endhint %}
 
 `The next section is for all the degens out there...`
