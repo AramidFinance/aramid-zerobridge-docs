@@ -6,6 +6,12 @@ Entity | Address
 | ---- | ----  
 | ... | ... 
 
+# Polygon
+
+Entity | Address  
+| ---- | ----  
+| ... | ... 
+
 # Algorand
 
 | Entity | Address  
