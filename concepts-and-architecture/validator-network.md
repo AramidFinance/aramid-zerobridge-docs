@@ -30,4 +30,8 @@ Each of the soldiers in the network maintain their state in a database. In case 
 
 The database is a local redis instance, and a soldier must maintain it in order to be considered a benevolent actor.
 
+{% hint style="info" %}
+[mainnet soldier node public information](https://docs.aramid.finance/getting-involved/aramidsoldiers)
+{% endhint %}
+
 `The next section is for all the degens out there...`
