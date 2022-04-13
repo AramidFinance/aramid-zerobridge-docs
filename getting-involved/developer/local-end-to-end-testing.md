@@ -26,6 +26,7 @@
 
 ```
 git clone git@github.com:AramidFinance/bridge-ethereum-smart-contracts.git
+git checkout localTesting
 ```
 
 
@@ -35,6 +36,7 @@ git clone git@github.com:AramidFinance/bridge-ethereum-smart-contracts.git
 
 ```
 git clone git@github.com:AramidFinance/bridge-algorand-assets.git
+git checkout localTesting
 ```
 
 ## Soldier Node Initialisation and Monitoring
@@ -43,6 +45,7 @@ git clone git@github.com:AramidFinance/bridge-algorand-assets.git
 
 ```
 git clone git@github.com:AramidFinance/bridge-soldier-nodejs-app.git
+git checkout localTesting
 ```
 
 ## System Interaction 
