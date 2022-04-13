@@ -4,7 +4,7 @@
 
 ## Environment SetUp
 
-- As a blockchain developer, you need some basics
+- As a blockchain app developer, you need some basics
 
 > You need a way to interact with your chosen network: a wallet, and it's credentials will allow for this
 
