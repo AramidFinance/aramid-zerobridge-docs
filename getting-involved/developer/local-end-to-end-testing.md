@@ -14,7 +14,7 @@
 
 - For the bridge specifically, these are your first port of call
 
-> You will need access to 3 ethereum accounts, and 3 algorand accounts, you can create these using [metamask](https://metamask.io/) and [purestake](https://www.purestake.com/technology/algosigner/). Note down the `private keys and mneumonics`
+> You will need access to 3 ethereum accounts, and 3 algorand accounts, you can create these using [metamask](https://metamask.io/) and [purestake](https://www.purestake.com/technology/algosigner/). Note down the `private keys and mneumonics`. 
 
 > You will need to fund these accounts with testnet Ether and Algo, using the relevant faucets: `e.g.` [rinkeby testnet faucet](https://rinkebyfaucet.com/) or [algorand testnet faucet](https://testnet.algoexplorer.io/dispenser)
 
@@ -28,7 +28,6 @@
 git clone git@github.com:AramidFinance/bridge-ethereum-smart-contracts.git
 git checkout localTesting
 ```
-
 
 ## Algorand Asset Creation
 
@@ -46,9 +45,4 @@ git checkout localTesting
 ```
 git clone git@github.com:AramidFinance/bridge-soldier-nodejs-app.git
 git checkout localTesting
-```
-
-## System Interaction 
-
-```
 ```
