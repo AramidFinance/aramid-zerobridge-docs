@@ -20,9 +20,11 @@
 
 > You will need access to 3 ethereum testnet endpoints, and 6 algorand testnet endpoints (3 for `indexer` and 3 for `algod`): `we will provide some, but it is recommended that you create your own`
 
+# The following should be done in this order!
+
 ## Ethereum Contract Deployment
 
-> install
+> install, and follow readme
 
 ```
 git clone git@github.com:AramidFinance/bridge-ethereum-smart-contracts.git
@@ -31,7 +33,7 @@ git checkout localTesting
 
 ## Algorand Asset Creation
 
-> install
+> install, and follow readme
 
 ```
 git clone git@github.com:AramidFinance/bridge-algorand-assets.git
@@ -40,7 +42,7 @@ git checkout localTesting
 
 ## Soldier Node Initialisation and Monitoring
 
-> install
+> install, and follow readme
 
 ```
 git clone git@github.com:AramidFinance/bridge-soldier-nodejs-app.git
