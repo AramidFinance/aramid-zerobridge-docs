@@ -1,4 +1,4 @@
-# Overview (WIP)
+# Overview
 
 > The goal here is to develop a walkthrough so that new devs at aramid can build the entire system for 'local' testing
 
