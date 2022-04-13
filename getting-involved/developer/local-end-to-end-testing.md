@@ -22,6 +22,8 @@
 
 > > All of the above can be done programatically, if you want, but we will not go into it here
 
+> > > what follows is in dev still
+
 # The following should be done in this order!
 
 ## Ethereum Contract Deployment
