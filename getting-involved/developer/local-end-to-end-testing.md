@@ -16,9 +16,11 @@
 
 > You will need access to 3 ethereum accounts, and 3 algorand accounts, you can create these using [metamask](https://metamask.io/) and [purestake](https://www.purestake.com/technology/algosigner/). Note down the `private keys and mneumonics`. 
 
-> You will need to fund these accounts with testnet Ether and Algo, using the relevant faucets: `e.g.` [rinkeby testnet faucet](https://rinkebyfaucet.com/) or [algorand testnet faucet](https://testnet.algoexplorer.io/dispenser)
+> You will need to fund these accounts with testnet Ether and Algo, using the relevant faucets: `e.g.` [rinkeby testnet faucet](https://rinkebyfaucet.com/), [matic faucet](https://faucet.polygon.technology/) or [algorand testnet faucet](https://testnet.algoexplorer.io/dispenser)
 
-> You will need access to 3 ethereum testnet endpoints, and 6 algorand testnet endpoints (3 for `indexer` and 3 for `algod`): `we will provide some, but it is recommended that you create your own`
+> You will need access to 3 ethereum testnet endpoints, and 6 algorand testnet endpoints (3 for `indexer` and 3 for `algod`): `we will provide some, but it is recommended that you create your own`. For this it is recommended to get familiar with [infura](https://infura.io/) or [alchemy](https://www.alchemy.com/), and again [purestake](https://developer.purestake.io/), or [tatum](https://dashboard.tatum.io/)
+
+> > All of the above can be done programatically, if you want, but we will not go into it here
 
 # The following should be done in this order!
 
