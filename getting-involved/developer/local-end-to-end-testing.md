@@ -35,7 +35,7 @@ git clone git@github.com:AramidFinance/bridge-ethereum-smart-contracts.git
 git checkout localTesting
 ```
 
-## Algorand Asset Creation
+## Algorand Asset Creation (WIP)
 
 > install, and follow readme
 
