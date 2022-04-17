@@ -18,7 +18,7 @@ When we talk about governance of a bridge, what we mean is that there are only c
 
 These are decided by our governance members, who, in turn, will decide based on factors, such as stable-coin distributor relations, and crypto partnerships.
 
-Of course, governance is entirely done on-chain.
+Of course, governance done on-chain.
 
 {% hint style="info" %}
 [mainnet assets public information](https://docs.aramid.finance/getting-involved/addresses)
