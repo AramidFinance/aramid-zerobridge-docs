@@ -26,7 +26,7 @@
 
 # The following should be done in this order!
 
-## Ethereum Contract Deployment
+## Ethereum Contract Deployment and Governance (WIP)
 
 > install, and follow readme
 
@@ -35,7 +35,7 @@ git clone git@github.com:AramidFinance/bridge-ethereum-smart-contracts.git
 git checkout localTesting
 ```
 
-## Algorand Asset Creation and Contract Deployment (WIP)
+## Algorand Asset Creation and Contract Deployment and Governance
 
 > install, and follow readme
 
