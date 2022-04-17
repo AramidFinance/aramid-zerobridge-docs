@@ -26,7 +26,7 @@
 
 # The following should be done in this order!
 
-## Ethereum Asset Creation and Contract Deployment and Governance (WIP)
+## Ethereum Asset Creation and Contract Deployment and Governance
 
 > install, and follow readme
 
