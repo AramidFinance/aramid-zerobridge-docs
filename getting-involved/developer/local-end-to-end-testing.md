@@ -44,7 +44,7 @@ git clone git@github.com:AramidFinance/bridge-algorand-assets.git
 git checkout localTesting
 ```
 
-## Soldier Node Initialisation and Monitoring
+## Soldier Node Initialisation and Monitoring (WIP)
 
 > install, and follow readme
 
