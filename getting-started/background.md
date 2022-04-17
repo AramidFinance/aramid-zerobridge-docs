@@ -20,12 +20,12 @@ Under the hood, a bridge is a communication protocol. It is an automated softwar
 
 These changes are manifested in our bridge as moving assets from one chain to another. If someone holds a Token, say in Ethereum network, they can take advantage of higher APR in a deFi application in Algorand blockchain by sending assets from Ethereum to Algorand chain.
 
-> Similar to the well known [blockchain trilemma](https://www.ledger.com/academy/what-is-the-blockchain-trilemma?msclkid=62401980b69311ecb1bce2942376c045), bridges also suffer from their [own trilemma](https://blog.connext.network/the-interoperability-trilemma-657c2cf69f17)
+> Similar to the well known [blockchain trilemma](https://www.ledger.com/academy/what-is-the-blockchain-trilemma?msclkid=62401980b69311ecb1bce2942376c045), bridges also suffer from their [own trilemma](https://blog.connext.network/the-interoperability-trilemma-657c2cf69f17).
 
 ### Main Features of our Bridge
 
-* Seamless user interaction
-* Supports both EVM and AVM chains
-* Cryptographically secure
-* Permissionless transfers
-* Decentralised architecture
+* Seamless user interaction.
+* Supports both EVM and AVM chains.
+* Cryptographically secure.
+* Permissionless transfers.
+* Decentralised architecture.
