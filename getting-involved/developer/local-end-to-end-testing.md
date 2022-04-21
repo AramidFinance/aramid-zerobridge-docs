@@ -24,7 +24,7 @@
 
 > > > what follows is in dev still
 
-# The following should be done in this order!
+# The following should be done in this order! (access open on main-net launch)
 
 ## Ethereum Asset Creation and Contract Deployment and Governance
 
