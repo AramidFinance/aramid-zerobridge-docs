@@ -31,7 +31,7 @@
 > install, and follow readme
 
 ```
-git clone git@github.com:AramidFinance/bridge-ethereum-smart-contracts.git
+git clone git@github.com:AramidFinance/bridge-ethereum-assets.git
 git checkout localTesting
 ```
 
