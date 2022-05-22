@@ -32,7 +32,38 @@ Each of the following requires M soldiers to sign the transaction.
 - Removing the token - The escrow account should not accept the token. (asset opt out algo feature)
 - Adding the soldier - N is increase by 1, new soldier can sign the transactions. (rekey algo feature)
 - Removing the soldier - N is decreased by 1, soldier signature is not counted. (rekey algo feature)
+- Round check - If transaction is requested to be released, the round must be checked (algo params first round & last round) 
 - Upgrading the smart contract - Changing the logic behind without requirement of address change. (rekey algo feature, proxy eth feature)
+
+Smart contract must be able to store data on the blockchain with public availability (note field or event). When requesting a transfer following fields are required:
+- feeToken : blockchain token id
+- feeAmount : uint64 - uint256 base units
+- sourceToken : blockchain token id. for native 0x0
+- sourceAmount : uint64 - uint256 base units. source amount must be equal to tx amount. if fee is paid with the same token, it should be clear that sourceAmount + feeAmount = tx.amount
+- destinationChain : uint32
+- destinationToken : string
+- destinationAmount : uint64 - uint256 | string (in base units of destination token)
+- destinationAddress : string
+- note : string (max 50 bytes)
+
+Additional data must be readable:
+- sourceAddress
+- tx.amount
+- round
+
+The fee payment amount is verified by the soldier app. 
+
+With release of the tokens following data must be stored (note field or event): 
+- sourceTransaction: string (original tx hash/id)
+- sourceChain : uint32 
+- sourceToken : string
+- sourceAmount : string - in base units
+- sourceAddress : string
+- destinationChain : uint32
+- destinationToken : string
+- destinationAmount : string - in base units
+- destinationAddress : string
+- note : string (max 50 bytes)
 
 To addopt smart contract we require high test coverage, ideally in javascipt or typescript.
 
