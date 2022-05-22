@@ -33,7 +33,7 @@ Each of the following requires M soldiers to sign the transaction.
 - Adding the soldier - N is increase by 1, new soldier can sign the transactions. (rekey algo feature)
 - Removing the soldier - N is decreased by 1, soldier signature is not counted. (rekey algo feature)
 - Round check - If transaction is requested to be released, the round must be checked (algo params first round & last round) 
-- Upgrading the smart contract - Changing the logic behind without requirement of address change. (rekey algo feature, proxy eth feature)
+- Upgrading the smart contract - Changing the logic behind without requirement of address change. (rekey algo feature, proxy eth feature) If this feature is not possible on specific chain, it may be skipped, and migration from old smart contract to new smart contract will lead to all funds to be moved and addresses updated.
 
 Smart contract must be able to store data on the blockchain with public availability (note field or event). When requesting a transfer following fields are required:
 - feeToken : blockchain token id
