@@ -9,6 +9,7 @@ Aramid is a community owned decentralized cross chain bridge, which enables user
 * Trusted Decentralized relayer node network&#x20;
 * Lucrative returns to liquidity providers against their investment Farming, Staking and liquidity provision opportunities for stakeholders to participate in the network and earn lucrative yields
 * &#x20;Platform to list new tokens and bootstrap their liquidity from trusted Aramid community Apart from providing seamless bridging experience to users, protocol has a community owned governance mechanism where community members can participate and contribute to improve the operational mechanics of protocol. Governance helps protocol to adopt the market dynamics and make changes in the protocol through consensus of community
+* 
 
 ### Blockchains: A Quick Overview
 
