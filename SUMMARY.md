@@ -13,8 +13,8 @@
   * [Smart Contracts and Multi-Signature Wallets](concepts-and-architecture/smart-contracts-and-multisignature-wallets.md)
   * [Soldier Nodes](concepts-and-architecture/validator-network.md)
 * [Tokenomics](concepts-and-architecture/tokenomics.md)
-* [Security](concepts-and-architecture/risk-analysis.md)
 * [Roadmap](concepts-and-architecture/roadmap.md)
+* [Security](concepts-and-architecture/risk-analysis.md)
 
 ## Getting Involved
 
