@@ -1,19 +1,27 @@
+# Aramid Soldier Network
+
 > coming soon
 
-# Ethereum
+## Ethereum
 
-Entity | Address  
-| ---- | ----  
-| ... | ... 
+| Entity | Address |
+| ------ | ------- |
+| ...    | ...     |
 
-# Polygon
+## Polygon
 
-Entity | Address  
-| ---- | ----  
-| ... | ... 
+| Entity | Address |
+| ------ | ------- |
+| ...    | ...     |
 
-# Algorand
+## Algorand
 
-| Entity | Address  
-| ---- | ----  
-| ... | ... 
+| Entity | Address |
+| ------ | ------- |
+| ...    | ...     |
+
+## Aurora
+
+| Entity | Address |
+| ------ | ------- |
+| ...    | ...     |
