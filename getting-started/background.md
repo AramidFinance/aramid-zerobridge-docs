@@ -18,7 +18,7 @@ This is where bridges come in.
 
 Under the hood, a bridge is a communication protocol. It is an automated software system which listens for information changes in one blockchain, and relays them to a second blockchain.
 
-These changes are manifested in our bridge as moving assets from one chain to another. If someone holds a Token, say in Ethereum network, they can take advantage of higher APR in a deFi application in Algorand blockchain by sending assets from Ethereum to Algorand chain.
+These changes are manifested in our bridge as moving assets from one chain to another. If someone holds a Token, say in Ethereum network, they can take advantage of higher APR in a Defi application on the Algorand blockchain by sending assets from Ethereum to Algorand.
 
 > Similar to the well known [blockchain trilemma](https://www.ledger.com/academy/what-is-the-blockchain-trilemma?msclkid=62401980b69311ecb1bce2942376c045), bridges also suffer from their [own trilemma](https://blog.connext.network/the-interoperability-trilemma-657c2cf69f17).
 
